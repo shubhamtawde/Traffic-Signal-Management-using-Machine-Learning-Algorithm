@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\beproject",
+    "\\static",
+    "\\static\\css",
+    "\\static\\fonts",
+    "\\static\\img",
+    "\\static\\img\\icon",
+    "\\templates",
+    "\\traffic"
+  ],
+  "SelectedNode": "\\traffic\\views.py",
+  "PreviewInSolutionExplorer": false
+}

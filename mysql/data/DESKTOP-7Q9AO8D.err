@@ -1,0 +1,40 @@
+2020-05-01T11:58:08.489514Z 0 [System] [MY-010116] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 16820
+2020-05-01T11:58:18.045369Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-01T11:58:18.564017Z 0 [System] [MY-010931] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-01T11:58:18.739695Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-01T12:20:43.086694Z 0 [System] [MY-010116] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 18672
+2020-05-01T12:20:48.265559Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2020-05-01T12:20:48.281713Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2020-05-01T12:20:50.359949Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-01T12:20:50.672729Z 0 [System] [MY-010931] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-01T12:20:50.693919Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-01T12:24:15.305478Z 0 [System] [MY-010116] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 23948
+2020-05-01T12:24:20.165455Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2020-05-01T12:24:20.181359Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2020-05-01T12:24:21.809214Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-01T12:24:22.067317Z 0 [System] [MY-010931] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-01T12:24:22.172897Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-01T12:27:06.353069Z 0 [System] [MY-010116] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 23084
+2020-05-01T12:27:18.754149Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2020-05-01T12:27:18.771014Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2020-05-01T12:27:20.920589Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-01T12:27:21.391006Z 0 [System] [MY-010931] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-01T12:27:21.615139Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-01T12:31:28.887245Z 0 [System] [MY-010116] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 14880
+2020-05-01T12:31:43.013044Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2020-05-01T12:31:43.032772Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2020-05-01T12:31:45.355176Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-01T12:31:45.827497Z 0 [System] [MY-010931] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-01T12:31:45.925383Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-01T12:46:45.441947Z 0 [System] [MY-010116] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 17464
+2020-05-01T12:46:53.455902Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2020-05-01T12:46:53.471178Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2020-05-01T12:46:55.330838Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-01T12:46:56.801579Z 0 [System] [MY-010931] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-01T12:46:57.036803Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-05-01T12:50:12.614515Z 0 [System] [MY-010116] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 24372
+2020-05-01T12:50:31.872314Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2020-05-01T12:50:31.887068Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2020-05-01T12:50:34.677088Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-05-01T12:50:34.944768Z 0 [System] [MY-010931] [Server] D:\LY\FINAL YEAR PROJECT\workspace\beproject_naya\beproject\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-05-01T12:50:35.142910Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060

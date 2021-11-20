@@ -1,0 +1,20 @@
+2021-11-04T17:20:13.520891Z 0 [System] [MY-010116] [Server] D:\Github\beproject\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 18320
+2021-11-04T17:20:15.744818Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2021-11-04T17:20:15.748038Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2021-11-04T17:20:17.115409Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-11-04T17:20:17.131584Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2021-11-04T17:20:17.131595Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2021-11-04T17:20:17.148020Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-11-04T17:20:18.539248Z 0 [System] [MY-010910] [Server] D:\Github\beproject\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2021-11-04T17:23:26.664076Z 0 [System] [MY-010116] [Server] D:\Github\beproject\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 16308
+2021-11-04T17:23:30.119515Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-11-04T17:23:30.122982Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2021-11-04T17:23:30.122992Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2021-11-04T17:23:30.131519Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-11-04T17:23:31.262172Z 0 [System] [MY-010910] [Server] D:\Github\beproject\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.17)  MySQL Community Server - GPL.
+2021-11-04T17:23:49.598695Z 0 [System] [MY-010116] [Server] D:\Github\beproject\mysql\bin\mysqld.exe (mysqld 8.0.17) starting as process 3684
+2021-11-04T17:23:52.917717Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-11-04T17:23:52.962234Z 0 [System] [MY-010931] [Server] D:\Github\beproject\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.17'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-11-04T17:23:53.044780Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060

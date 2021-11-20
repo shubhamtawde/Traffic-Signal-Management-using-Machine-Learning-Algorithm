@@ -1,0 +1,212 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* The Modal (background) */
+
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: center;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    padding-top: 100px;
+    /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+
+/* Modal Content */
+
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 34%;
+    align: center;
+}
+
+#myBtn {
+    background-color: #343A40;
+    border: none;
+    color: white;
+    padding: 5px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Times New Roman';
+}
+
+
+/* The Close Button */
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.breadcrumb-button {
+    display: inline-block;
+    border-radius: 4px;
+    border: black;
+    background-color: #FFFFFF;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 100px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.breadcrumb-button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.breadcrumb-button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.breadcrumb-button:hover span {
+    padding-right: 25px;
+}
+
+.breadcrumb-button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+#green-1.ON {
+    background-color: red;
+}
+
+#blue-1.ON {
+    background-color: red;
+}
+
+#red-1.ON {
+    background-color: red;
+}
+
+#yellow-1.ON {
+    background-color: red;
+}
+
+#blue-1 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#blue-2 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#blue-3 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#yellow-1 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#yellow-2 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#yellow-3 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#red-1 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#red-2 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#red-3 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#green-1 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#green-2 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+#green-3 {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: inline-block;
+}
